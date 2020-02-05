@@ -61,8 +61,8 @@ javac rGRI.java
 	     -r <The reference file or the assemblies file>
 	     -k <The k-mer size used during the detection(Default value: 49)>
 	     -t <The number of threads(Default value: 8)>
-           -M <This parameter controls whether the alignment rate of detection results is counted(Setting this parameter to 'yes' indicates statistics)>
-           -Q <This parameter controls whether the effective size of detection results is counted(Setting this parameter to 'yes' indicates statistics)>
+        -M <This parameter controls whether the alignment rate of detection results is counted(Setting this parameter to 'yes' indicates statistics)>
+        -Q <This parameter controls whether the effective size of detection results is counted(Setting this parameter to 'yes' indicates statistics)>
 	     -f <The reference file used for results evaluation>
              -o <The path used to save the final detection results>		 
 	
@@ -79,6 +79,6 @@ javac rGRI.java
     
 	(1)The final detection results will be stored in the path specified by '-o'.
 	
-      If the value of '-o' is set to '/home/output', the final detection results will be stored in '/home/output'.
+    If the value of '-o' is set to '/home/output', the final detection results will be stored in '/home/output'.
 	Otherwise, the detection results will be stored in the default path (.../rGRI-master/FinalRepeatLib/).
 

@@ -38,7 +38,7 @@ When running rGRI from GitHub source the following tools are required:
 * [jdk 1.8.0 or above]
 * [GNU C++ 4.6.3 or above] 
 * [perl 5.6.0 or above] 
-* [python 2.7.14 or above]
+* [python 2.7.14]
  
 ### Install rGRI
 
